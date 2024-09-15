@@ -1,4 +1,4 @@
-package com.example.cqrs_basic.infrastructure.persistence.repositroy.command;
+package com.example.cqrs_basic.infrastructure.persistence.repositroy.impl.command;
 
 import com.example.cqrs_basic.domain.model.Order;
 import com.example.cqrs_basic.domain.repository.OrderRepository;

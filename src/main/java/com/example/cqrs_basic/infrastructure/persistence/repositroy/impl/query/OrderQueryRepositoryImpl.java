@@ -1,4 +1,4 @@
-package com.example.cqrs_basic.infrastructure.persistence.repositroy.query;
+package com.example.cqrs_basic.infrastructure.persistence.repositroy.impl.query;
 
 
 import com.example.cqrs_basic.application.query.dto.OrderSummaryDto;
